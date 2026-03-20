@@ -5,13 +5,15 @@
 ## 仓库内容概览
 
 - `python语法.md`：Python 基础语法与常用技巧。
+- `python进阶.md`：Python 进阶语法模型。
 - `springAI.md`：Spring AI 相关概念与实践（包含流式输出）。
 - `工具.md`：常用开发与调试工具记录。
 - `区分agent和自动化工作流.md`：Agent 与自动化工作流的区别与适用场景。
 - `学习路线.md`：个人学习路线规划与阶段目标。
 - `LLM入门教程.md`：LLM 是什么 / 原理 / 架构等入门知识。
-- `开发框架.md`：LangChain、FastAPI 等开发框架相关笔记。
+- `开发框架.md`：LangChain开发框架相关笔记。
 - `基础概念.md`：MCP、Skills、prompt、RAG、Sub Agent、向量数据库、ReAct 框架、ToolUse/FunctionCalling 等基础概念。
+- `RAG篇.md`：检索增强生成知识内容笔记
 
 ## 使用方式
 

@@ -14,7 +14,7 @@
 - `开发框架.md`：LangChain开发框架相关笔记。
 - `基础概念.md`：MCP、Skills、prompt、RAG、Sub Agent、向量数据库、ReAct 框架、FunctionCalling 等基础概念。
 - `RAG篇.md`：检索增强生成知识内容笔记
-- `Agent篇.md`：核心探究
+- `Agent篇.md`：核心探究智能体学习笔记
 
 ## 使用方式
 
